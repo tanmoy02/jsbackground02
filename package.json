@@ -1,0 +1,17 @@
+{
+  "name": "gradient_background_generator",
+  "version": "1.0.0",
+  "description": "automatically generate css code for current background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "background",
+    "generator",
+    "css",
+    "automatic"
+  ],
+  "author": "Tanmoy Adhikary",
+  "license": "ISC"
+}
